@@ -1,133 +1,33 @@
-# 👋 Hi, I'm Rifat
+<h1 align="center">Hi 👋, I'm Rifat Hosan</h1>
+<h3 align="center">A passionate UI/UX Designer from Bangaldesh</h3>
 
-🚀 UI/UX Designer | SaaS Product Builder | AI System Thinker  
-📍 Bangladesh  
-🎯 Focused on building scalable dashboards, AI-powered systems & business-ready SaaS platforms
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-hossan&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-hossan" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifat-hossan" alt="rifat-hossan" /></a> </p>
 
-## 🧠 About Me
+- 🔭 I’m currently working on [FireAI Operation Website](https://www.figma.com/design/uPrZHV2jqtdQy6YThbyx5c/Operational?node-id=0-1&p=f&t=i4D42hsxl4y0GPYE-0)
 
-I design and build structured digital systems.
+- 🌱 I’m currently learning **Webflow, Wordpress, Adobe After Effect**
 
-I don’t just design screens —  
-I design **flows, systems, and scalable architectures**.
+- 👨‍💻 All of my projects are available at [https://github.com/rifat-hossan?tab=repositories](https://github.com/rifat-hossan?tab=repositories)
 
-Currently working on:
-- Multi-tenant SaaS dashboards
-- Super Admin systems
-- AI Agent & AI Chatbot integrations
-- Business operation dashboards
-- Restaurant & Management Web Apps
+- 💬 Ask me about **UI/UX, Desgin**
 
-I believe in:
-- Clean UI
-- Logical system architecture
-- Future scalability
-- Product-first thinking
+- 📫 How to reach me **mdrifathossan656@gmail.com**
 
----
+- ⚡ Fun fact **Eating, Sleeping, Travelling**
 
-## 💼 What I’m Working On
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rifat656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifat656" height="30" width="40" /></a>
+<a href="https://fb.com/rifat656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rifat656" height="30" width="40" /></a>
+</p>
 
-### 🔹 Operation Dashboard System
-- Order analytics
-- Project metrics
-- Service line tracking (AI Agent, AI Chatbot, App, Website)
-- Profile-based performance monitoring
-- Rating & KPI visualization
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-### 🔹 Multi-Tenant SaaS Platform
-- Super Admin Dashboard
-- Tenant Management System
-- Subscription & Billing
-- API Key Management
-- Role-based access structure:
-  - Employee
-  - Manager
-  - Admin
-  - Platform Owner
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifat-hossan&show_icons=true&locale=en&layout=compact" alt="rifat-hossan" /></p>
 
-### 🔹 Restaurant Management WebApp
-- Full management system
-- Structured UI system
-- Dashboard analytics
-- Modular component design
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-hossan&show_icons=true&locale=en" alt="rifat-hossan" /></p>
 
----
-
-## 🛠 Tech & Tools
-
-### 🎨 Design
-- Figma
-- Design Systems
-- Component Architecture
-- UX Flow Planning
-- SaaS Dashboard Structuring
-
-### 💻 Development
-- React
-- Next.js
-- Tailwind CSS
-- REST API Integration
-- Git & GitHub
-
-### 🤖 AI & Automation
-- AI Agent System Design
-- AI Chatbot Integration
-- Prompt Structuring
-- AI-powered UI systems
-
----
-
-## 📊 My Approach
-
-I work step-by-step:
-
-1. System Structure  
-2. Role Hierarchy  
-3. Data Flow Mapping  
-4. UI Architecture  
-5. Component System  
-6. Scalability Planning  
-
-I focus on building products that:
-- Scale
-- Sell
-- Solve real business problems
-
----
-
-## 📈 Current Goals
-
-- Convert internal dashboards into SaaS products
-- Build AI-integrated business systems
-- Improve system architecture thinking
-- Launch scalable digital products globally
-
----
-
-## 🔥 Core Strengths
-
-✔ Dashboard UX Strategy  
-✔ Multi-role SaaS Architecture  
-✔ Business-Oriented Design Thinking  
-✔ Clean & Structured Layout Systems  
-✔ AI Integration Planning  
-
----
-
-## 📬 Let's Connect
-
-If you're building:
-- A SaaS platform  
-- AI-based product  
-- Business dashboard  
-- Scalable web application  
-
-Let’s collaborate.
-
----
-
-> “Design is not how it looks.  
-> It’s how the system works.”
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-hossan&" alt="rifat-hossan" /></p>
