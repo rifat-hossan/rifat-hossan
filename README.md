@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+<br><br>
+
 <h1 align="center">Hi 👋, I'm Rifat Hosan</h1>
 <h3 align="center">A passionate UI/UX Designer from Bangaldesh</h3>
 
