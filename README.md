@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="2000">
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="2000">
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Rifat Hossan</h1>
